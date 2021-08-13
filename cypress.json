@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "video": false,
+  "supportFile": "cypress/support/index.ts",
+  "pluginsFile": "cypress/plugins/index.ts"
+}
